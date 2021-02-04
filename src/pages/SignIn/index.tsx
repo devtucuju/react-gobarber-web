@@ -64,12 +64,11 @@ const SignIn: React.FC = () => {
           <Button type="submit">Entrar</Button>
           <a href="forgot">Esqueci minha senha</a>
         </Form>
-        <a href="/">
+      <a href="/">
           <FiLogIn />
           Criar conta
         </a>
-      </Content>
-
+        </Content>
       <BackGround />
     </Container>
   );
