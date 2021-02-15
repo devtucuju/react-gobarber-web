@@ -43,8 +43,8 @@ ReactJS Application for GoBarber Web
 ## 💇 About the project
 
 Soon
-To see the **api**, click here: [GoBarber Rest API](https://github.com/devtucuju/gobarber-api)</br>
-To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/devtucuju/gobarber-mobile)
+To see the **api**, click here: [GoBarber Rest API](https://github.com/devtucuju/nodejs-gobarberapi)</br>
+To see the **mobile client**, click here: [GoBarber Mobile](https://github.com/devtucuju/react-native-gobarberamobile)
 
 ## 🚀 Technologies
 [//]: # (Add the features of your project here:)
@@ -64,7 +64,7 @@ This app features all the latest tools and practices in mobile development!
 
 ### Requirements
 
-- Have this application's [API](https://github.com/) running
+- Have this application's [API](https://github.com/devtucuju/nodejs-gobarberapi) running
 
 **Clone the project and access the folder**
 
